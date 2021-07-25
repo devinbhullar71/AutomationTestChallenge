@@ -1,0 +1,15 @@
+{
+  "name": "www-bu-tests",
+  "version": "1.0.0",
+  "description": "AutomationTest",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Devinder Bhullar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  },
+  "dependencies": {}
+}
