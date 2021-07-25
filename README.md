@@ -1,2 +1,2 @@
-# AutomationTestChallenge
+# Automation Test Challenge
 Automation Test
